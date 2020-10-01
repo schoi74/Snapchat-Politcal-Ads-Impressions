@@ -66,7 +66,7 @@ Even though this regression model is not the best equation to use to predict the
 ### How does the regression for the number of impressions from political ads in the year 2018 look like?
 __2018 Correlation__
 
-![alt text]()
+![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2018%20correlation.png)
 
 __2018 Regression__
 ![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2018%20regression.png)
