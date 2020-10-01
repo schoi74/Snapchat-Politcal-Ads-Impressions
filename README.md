@@ -36,7 +36,7 @@ We will use Microsoft Excel to answer these questions:
 
 ### How does the regression for the number of impressions from political ads in the year 2018 look like?
 
-![alt text]()
+![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2018%20regression.png)
 
 ## Summary
 ## Stey-by-Step Excel Analysis
