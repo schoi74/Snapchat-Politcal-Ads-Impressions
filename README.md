@@ -6,8 +6,11 @@ _Can we predict the number of impressions for an advertisement for any year with
 ## Data Question - Open Data
 We'll use open data from one source:
 - Snapchat: This research group constructs [publically open data "to find out details about all political and advocacy advertising running on our platform".](https://www.snap.com/en-US/political-ads/) We will be creating multiple linear regressions:
+    
     i. 2020: Original open data on political advertisements in the year 2020.
+    
     ii. 2019: Original open data on political advertisements in the year 2019.
+    
     iii. 2018: Original open data on political advertisements in the year 2018.
 ## Data Question - Analysis
 We will use Microsoft Excel to answer these questions:
