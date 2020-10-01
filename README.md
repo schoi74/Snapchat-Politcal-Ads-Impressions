@@ -25,6 +25,7 @@ We will use Microsoft Excel to answer these questions:
 
 ### How does the regression for the number of impressions from political ads in the year 2020 look like?
 __2020 Correlation__
+
 ![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2020%20correlation.png)
 
 __2020 Regression 1__
@@ -43,6 +44,7 @@ __Impressions = -299145.42 + 427.141777*(Spend) + 2608.88975*(Days_of_Ads) + 138
 
 ### How does the regression for the number of impressions from political ads in the year 2019 look like?
 __2019 Correlation__
+
 ![alt text]()
 
 __2019 Regression 1__
@@ -63,6 +65,7 @@ Even though this regression model is not the best equation to use to predict the
 
 ### How does the regression for the number of impressions from political ads in the year 2018 look like?
 __2018 Correlation__
+
 ![alt text]()
 
 __2018 Regression__
