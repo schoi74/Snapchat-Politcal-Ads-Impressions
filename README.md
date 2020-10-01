@@ -24,18 +24,23 @@ We will use Microsoft Excel to answer these questions:
 ## Data Answer
 
 ### How does the regression for the number of impressions from political ads in the year 2020 look like?
+__2020 Regression 1__
 ![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2020%20regression%201.png)
 
+Here we can see that the R^2 value is pretty high with 0.7002041, Signifance F value of 0, and p-values low enough for each variable except for _ACRONYM?_. As ACRONYM was the most common organization that had the political ads 
+
+__2020 Regression 2__
 ![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2020%20regression%202.png)
 
 ### How does the regression for the number of impressions from political ads in the year 2019 look like?
-
+__2019 Regression 1__
 ![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2019%20regression%201.png)
 
+__2019 Regression 2__
 ![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2019%20regression%202.png)
 
 ### How does the regression for the number of impressions from political ads in the year 2018 look like?
-
+__2018 Regression__
 ![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2018%20regression.png)
 
 ## Summary
