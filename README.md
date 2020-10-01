@@ -42,7 +42,7 @@ Here, the R^2 value increases a little bit to 0.70343838 from 0.7002041, Signifi
 
 Thus, the final multiple linear regression equation is:
 
-__Impressions = -299145.42 + 427.141777*(Spend) + 2608.88975*(Days_of_Ads) + 1384066.01*(Assembly?)__
+#### Impressions = -299145.42 + 427.141777*(Spend) + 2608.88975*(Days_of_Ads) + 1384066.01*(Assembly?)
 
 ### How does the regression for the number of impressions from political ads in the year 2019 look like?
 - __2019 Correlation__
@@ -63,7 +63,7 @@ After rerunning the data analysis, you can notice that the R^2 value decreases a
 
 Thus, the final multiple linear regression equation is:
 
-__Impressions = 138485.082 + 340.626168*(Spend) + 661.869532*(Days_of_Ads) - 200594.96*(UnRestrict_Minnesota?)__
+#### Impressions = 138485.082 + 340.626168*(Spend) + 661.869532*(Days_of_Ads) - 200594.96*(UnRestrict_Minnesota?)
 
 Even though this regression model is not the best equation to use to predict the number of impressions of political ads for the year 2019, we can safely assume that it will predict the number of impressions with a bigger margin of error.
 
@@ -81,7 +81,7 @@ Here, we first notice how the R^2 value for this regression model is lower than 
 
 Thus, the final multiple linear regression equation is:
 
-__Impressions = -72466.73 + 348.426633*(Spend) + 4438.44254*(Days_of_Ads) - 290379.41*(Bully_Pulpit_Interactive?)__
+#### Impressions = -72466.73 + 348.426633*(Spend) + 4438.44254*(Days_of_Ads) - 290379.41*(Bully_Pulpit_Interactive?)
 
 ## Summary
 
