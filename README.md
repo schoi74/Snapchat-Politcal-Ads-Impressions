@@ -26,7 +26,7 @@ We will use Microsoft Excel to answer these questions:
 ### How does the regression for the number of impressions from political ads in the year 2020 look like?
 - __2020 Correlation__
 
-![alt text](https://github.com/schoi74/Snapchat-Politcal-Ads-Impressions/blob/master/2020%20correlation.png)
+![alt text]()
 
 Here, the only thing to point out here is the correlation between the variables Impressions and Spend with the value of 0.83398435. However, as it does not exceed 0.9, which indicates the presence of multicollinearity. Since that is not the case, we can proceed with the regression model despite the risk of increased margin of error.
 
